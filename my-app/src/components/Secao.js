@@ -1,6 +1,5 @@
 import React from "react";
 import '../App.css';
-import './Secao.css';
 
 function Secao() {
     return (
