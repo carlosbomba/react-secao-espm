@@ -49,22 +49,22 @@ body {
 
 .btn
 {
-  display: block;
-  margin: 40px 0;
-  width: 140px;
-  height: 50px;
-  border: none;
-  background-color: #00a8ff;
-  color: #fff;
-  font-size: 18px;
-  border-radius: 6px;
-  outline: none;
-  cursor: pointer;
-  transition: .1s linear;
+    display: block;
+    margin: 40px 0;
+    width: 140px;
+    height: 50px;
+    border: none;
+    background-color: #00a8ff;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+    outline: none;
+    cursor: pointer;
+    transition: .1s linear;
 }
 
 .btn1 {
-  background-color: #1db617;
+    background-color: #1db617;
 }
 
 /* .btn2 {
