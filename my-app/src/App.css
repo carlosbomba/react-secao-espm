@@ -21,11 +21,6 @@ body {
   background: url('/imagens/img-2.jpg') center center/cover no-repeat;
 }
 
-/* .sec2 > h1, .sec2 > p {
-  width: 100%;
-  margin-left: 100px;
-} */
-
 .sec3 {
   background: url('/imagens/img-3.jpg') center center/cover no-repeat;
 }
@@ -66,10 +61,6 @@ body {
 .btn1 {
   background-color: #1db617;
 }
-
-/* .btn2 {
-  margin-left: 100px;
-} */
 
 .btn:hover {
   box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.3);
